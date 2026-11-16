@@ -1,0 +1,28 @@
+
+class MethodOverloading {
+
+    // Method with two integer parameters
+    static int add(int a, int b) {
+        return a + b;
+    }
+
+    // Method with three integer parameters
+    static int add(int a, int b, int c) {
+        return a + b + c;
+    }
+
+    // Method with double parameters
+    static double add(double a, double b) {
+        return a + b;
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println("Sum of two integers: " + add(10, 20));
+
+        System.out.println("Sum of three integers: " + add(10, 20, 30));
+
+        System.out.println("Sum of two decimals: " + add(10.5, 20.5));
+    }
+}
+
