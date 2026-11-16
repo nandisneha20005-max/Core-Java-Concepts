@@ -1,9 +1,9 @@
 # ☕ Core Java Concepts – From Beginner to Advanced
-
 ![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk)
 ![Core Java](https://img.shields.io/badge/Focus-Core%20Java-blue?style=for-the-badge)
 ![Beginner to Advanced](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-success?style=for-the-badge)
 ![Actively Learning](https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=for-the-badge)
+
 
 **A structured journey of learning Java, strengthening programming fundamentals, and building problem-solving skills.**
 
