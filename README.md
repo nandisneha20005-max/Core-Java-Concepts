@@ -1,10 +1,11 @@
 # ☕ Core Java Concepts – From Beginner to Advanced
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge\&logo=openjdk)" />   \<img src="[https://img.shields.io/badge/Focus-Core%20Java-blue?style=for-the-badge](https://img.shields.io/badge/Focus-Core%20Java-blue?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Level-Beginner%20to%20Advanced-success?style=for-the-badge](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-success?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=for-the-badge](https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=for-the-badge)" /> \</p>
+![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk)
+![Core Java](https://img.shields.io/badge/Focus-Core%20Java-blue?style=for-the-badge)
+![Beginner to Advanced](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-success?style=for-the-badge)
+![Actively Learning](https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=for-the-badge)
 
-\<p align="center">   \<b>A structured journey of learning Java, strengthening programming fundamentals, and building problem-solving skills.\</b> \</p>
-
-\<p align="center">   \<a href="#-about-this-repository">About\</a> •   \<a href="#-learning-roadmap--repository-structure">Roadmap\</a> •   \<a href="#-learning-progress-tracker">Progress\</a> •   \<a href="#-how-to-run-java-programs">Getting Started\</a> \</p>
+**A structured journey of learning Java, strengthening programming fundamentals, and building problem-solving skills.**
 
 ---
 
@@ -46,16 +47,16 @@ The repository is organized into progressive learning modules, starting with Jav
 
 ### 📁 Repository Navigation
 
-| No. | Module                         | Folder                     |
-| --- | ------------------------------ | -------------------------- |
-| 01  | Java Basics                    | `01-Java-Basics`           |
-| 02  | Object-Oriented Programming    | `02-OOP`                   |
-| 03  | Arrays and Strings             | `03-Arrays-and-Strings`    |
-| 04  | Exception Handling             | `04-Exception-Handling`    |
-| 05  | Collections Framework          | `05-Collections-Framework` |
-| 06  | Multithreading and Concurrency | `06-Multithreading`        |
-| 07  | Advanced Java Concepts         | `07-Advanced-Java`         |
-| 08  | Practice Programs              | `08-Practice-Programs`     |
+| No. | Module | Folder |
+|---|---|---|
+| 01 | Java Basics | `01-Java-Basics` |
+| 02 | Object-Oriented Programming | `02-OOP` |
+| 03 | Arrays and Strings | `03-Arrays-and-Strings` |
+| 04 | Exception Handling | `04-Exception-Handling` |
+| 05 | Collections Framework | `05-Collections-Framework` |
+| 06 | Multithreading and Concurrency | `06-Multithreading` |
+| 07 | Advanced Java Concepts | `07-Advanced-Java` |
+| 08 | Practice Programs | `08-Practice-Programs` |
 
 *The roadmap represents the planned learning structure. Modules will be populated as the corresponding concepts are studied and implemented.*
 
@@ -65,21 +66,21 @@ The repository is organized into progressive learning modules, starting with Jav
 
 The foundation of Java programming. This module covers basic syntax, program structure, control flow, methods, and essential programming concepts.
 
-| Topic                  | Description                                                                 |
-| ---------------------- | --------------------------------------------------------------------------- |
-| Variables              | Understanding declaration, initialization, and usage of variables.          |
-| Data Types             | Primitive and non-primitive data types in Java.                             |
-| Type Casting           | Converting one data type into another.                                      |
-| Operators              | Arithmetic, relational, logical, assignment, and other operators.           |
-| Conditional Statements | Decision-making using if, else-if, and switch.                              |
-| Loops                  | Repeating statements using for, while, and do-while loops.                  |
-| Nested Loops           | Understanding loops inside other loops.                                     |
-| Jump Statements        | Controlling execution using break, continue, and return.                    |
-| Methods                | Creating reusable blocks of code and understanding method execution.        |
-| Method Parameters      | Passing arguments to methods.                                               |
-| Return Types           | Returning values from methods.                                              |
-| Method Overloading     | Defining multiple methods with the same name but different parameter lists. |
-| Recursion              | Solving problems through methods that call themselves.                      |
+| Topic | Description |
+|---|---|
+| Variables | Understanding declaration, initialization, and usage of variables. |
+| Data Types | Primitive and non-primitive data types in Java. |
+| Type Casting | Converting one data type into another. |
+| Operators | Arithmetic, relational, logical, assignment, and other operators. |
+| Conditional Statements | Decision-making using if, else-if, and switch. |
+| Loops | Repeating statements using for, while, and do-while loops. |
+| Nested Loops | Understanding loops inside other loops. |
+| Jump Statements | Controlling execution using break, continue, and return. |
+| Methods | Creating reusable blocks of code and understanding method execution. |
+| Method Parameters | Passing arguments to methods. |
+| Return Types | Returning values from methods. |
+| Method Overloading | Defining multiple methods with the same name but different parameter lists. |
+| Recursion | Solving problems through methods that call themselves. |
 
 #### 💡 Practical Implementation: Java Methods
 
@@ -89,13 +90,13 @@ I have implemented the following programs to understand how methods work in Java
 
 📂 [**Explore Java Methods Programs**](./01-Java-Basics/05-Methods/)
 
-| No. | Program                  | Concepts Covered                          |
-| --- | ------------------------ | ----------------------------------------- |
-| 01  | Method Declaration       | Declaring, defining, and calling methods  |
-| 02  | Method With Parameters   | Passing arguments to methods              |
-| 03  | Method With Return Value | Returning values using the return keyword |
-| 04  | Method Overloading       | Compile-time polymorphism                 |
-| 05  | Recursion                | Base conditions and recursive calls       |
+| No. | Program | Concepts Covered |
+|---|---|---|
+| 01 | Method Declaration | Declaring, defining, and calling methods |
+| 02 | Method With Parameters | Passing arguments to methods |
+| 03 | Method With Return Value | Returning values using the return keyword |
+| 04 | Method Overloading | Compile-time polymorphism |
+| 05 | Recursion | Base conditions and recursive calls |
 
 **Learning Outcome:** Develop the ability to write basic Java programs, understand program execution, and create reusable code using methods.
 
@@ -105,17 +106,17 @@ I have implemented the following programs to understand how methods work in Java
 
 Learn the fundamental principles of Object-Oriented Programming, which form the foundation of Java application development.
 
-| Topic               | Description                                                         |
-| ------------------- | ------------------------------------------------------------------- |
-| Classes and Objects | Understanding blueprints and their instances.                       |
-| Constructors        | Initializing objects and understanding constructor types.           |
-| This Keyword        | Referring to the current object.                                    |
-| Inheritance         | Reusing properties and methods of existing classes.                 |
-| Polymorphism        | Understanding compile-time and runtime polymorphism.                |
-| Method Overloading  | Defining multiple methods with the same name.                       |
-| Method Overriding   | Redefining inherited methods.                                       |
-| Encapsulation       | Protecting data using access control.                               |
-| Abstraction         | Hiding implementation details and exposing essential functionality. |
+| Topic | Description |
+|---|---|
+| Classes and Objects | Understanding blueprints and their instances. |
+| Constructors | Initializing objects and understanding constructor types. |
+| This Keyword | Referring to the current object. |
+| Inheritance | Reusing properties and methods of existing classes. |
+| Polymorphism | Understanding compile-time and runtime polymorphism. |
+| Method Overloading | Defining multiple methods with the same name. |
+| Method Overriding | Redefining inherited methods. |
+| Encapsulation | Protecting data using access control. |
+| Abstraction | Hiding implementation details and exposing essential functionality. |
 
 **Learning Outcome:** Understand how to design reusable, modular, and maintainable Java programs.
 
@@ -248,16 +249,16 @@ Includes:
 
 This tracker represents my learning progress across different modules.
 
-| Module                    | Status         |
-| ------------------------- | -------------- |
-| 01. Java Basics           | 🟡 In Progress |
-| 02. OOP                   | ⬜ Upcoming     |
-| 03. Arrays and Strings    | ⬜ Upcoming     |
-| 04. Exception Handling    | ⬜ Upcoming     |
-| 05. Collections Framework | ⬜ Upcoming     |
-| 06. Multithreading        | ⬜ Upcoming     |
-| 07. Advanced Java         | ⬜ Upcoming     |
-| 08. Practice Programs     | ⬜ Upcoming     |
+| Module | Status |
+|---|---|
+| 01. Java Basics | 🟡 In Progress |
+| 02. OOP | ⬜ Upcoming |
+| 03. Arrays and Strings | ⬜ Upcoming |
+| 04. Exception Handling | ⬜ Upcoming |
+| 05. Collections Framework | ⬜ Upcoming |
+| 06. Multithreading | ⬜ Upcoming |
+| 07. Advanced Java | ⬜ Upcoming |
+| 08. Practice Programs | ⬜ Upcoming |
 
 **Legend:**
 
@@ -273,13 +274,13 @@ The tracker will be updated as new concepts are learned, practiced, and added to
 
 The following technologies and tools are used throughout this learning journey.
 
-| Technology / Tool  | Purpose                                      |
-| ------------------ | -------------------------------------------- |
-| Java               | Primary programming language                 |
-| JDK                | Compiling and executing Java programs        |
-| Visual Studio Code | Code editor and development environment      |
-| Git                | Version control                              |
-| GitHub             | Source code management and progress tracking |
+| Technology / Tool | Purpose |
+|---|---|
+| Java | Primary programming language |
+| JDK | Compiling and executing Java programs |
+| Visual Studio Code | Code editor and development environment |
+| Git | Version control |
+| GitHub | Source code management and progress tracking |
 
 ---
 
@@ -378,6 +379,6 @@ This repository reflects my commitment to learning Java step by step, strengthen
 
 ---
 
-\<p align="center">   \<b>✨ Learn. Code. Practice. Improve. Repeat. ✨\</b> \</p>
+**✨ Learn. Code. Practice. Improve. Repeat. ✨**
 
-\<p align="center">   \<i>Every expert was once a beginner. Keep coding and keep growing!\</i> \</p>
+*Every expert was once a beginner. Keep coding and keep growing!*
